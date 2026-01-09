@@ -1,2 +1,3 @@
 Testando atualização do clone
 Adicionando a funcionalidade a 
+Adicionando a funcionalidade b
